@@ -1,5 +1,5 @@
 
-Project for Revature
+<h1>Pokedex Project</h1>
 
 
 A simple command line interface project used to Query interesting Pokemon facts using Spark and HiveQL.
