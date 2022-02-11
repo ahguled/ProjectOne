@@ -14,7 +14,7 @@ object projectOne {
     val driver = "com.mysql.jdbc.Driver"
     val url = "jdbc:mysql://localhost:3306/projectone"
     val username = "root"
-    val password = "Greenairplane.87"
+    val password = "####"
     var scanner = new Scanner(System.in)
     var connection: Connection = null
     System.setSecurityManager(null)
