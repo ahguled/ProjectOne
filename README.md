@@ -17,10 +17,10 @@ A simple command line interface project used to Query interesting Pokemon facts 
 
 
 <h2>Features</h2>
-* Allows for user log-in with two distinct user types: Basic and Admin which is stored in a MySQL database.
-* Admin has special features such as updating database or changing a user password or deleting a user.
-* Total of 6 different queries to choose from user menu.
-* Users can alter user information such as username or password. 
+-  Allows for user log-in with two distinct user types: Basic and Admin which is stored in a MySQL database.
+-  Admin has special features such as updating database or changing a user password or deleting a user.
+-  Total of 6 different queries to choose from user menu.
+-  Users can alter user information such as username or password. 
 
 <h3>To-Do List:</h3>
 * Add more artistic touches
