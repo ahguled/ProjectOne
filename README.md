@@ -22,7 +22,7 @@ A simple command line interface project used to Query interesting Pokemon facts 
 * Total of 6 different queries to choose from user menu.
 * Users can alter user information such as username or password. 
 
-To-Do List:
+<h3>To-Do List:</h3>
 * Add more artistic touches
 * Edit the menu system while-loops so that users stay logged in after operations.
 
