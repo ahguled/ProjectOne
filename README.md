@@ -32,3 +32,4 @@ A simple command line interface project used to Query interesting Pokemon facts 
 
 - Users must add a base admin to a sql database in order to utilize the program. 
 - The table should have columns: name, username, password and user type(BASIC vs ADMIN).
+- Must connect to your own local server of MySQL using the username and password variables under main method.
