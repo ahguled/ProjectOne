@@ -7,24 +7,24 @@ A simple command line interface project used to Query interesting Pokemon facts 
 
 <h2>Technologies Used </h2>
 
-*Scala Version 2.11.12
-*SBT Version 1.6.0
-*Apache Spark–Hive Version 3.1.2
-*MySQL Version 8.0.27
-*Hadoop 3.0
-*VS CODE
+* Scala Version 2.11.12
+* SBT Version 1.6.0
+* Apache Spark–Hive Version 3.1.2
+* MySQL Version 8.0.27
+* Hadoop 3.0
+* VS CODE
 
 
 
 <h2>Features</h2>
-*Allows for user log-in with two distinct user types: Basic and Admin which is stored in a MySQL database.
-*Admin has special features such as updating database or changing a user password or deleting a user.
-*Total of 6 different queries to choose from user menu.
-*Users can alter user information such as username or password. 
+* Allows for user log-in with two distinct user types: Basic and Admin which is stored in a MySQL database.
+* Admin has special features such as updating database or changing a user password or deleting a user.
+* Total of 6 different queries to choose from user menu.
+* Users can alter user information such as username or password. 
 
 To-Do List:
-*Add more artistic touches
-*Edit the menu system while-loops so that users stay logged in after operations.
+* Add more artistic touches
+* Edit the menu system while-loops so that users stay logged in after operations.
 
 <h2>Getting Started</h2>
 1. Users must add a base admin to a sql database in order to utilize the program. 
